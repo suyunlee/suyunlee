@@ -47,8 +47,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyunlee&layout=compact&theme=tokyonight" height="150"/>
 </div>
 
----
-
-<p align="center">
-  방문해주셔서 감사합니다! ⭐ 프로젝트에 Star 한 번 눌러주세요 :)
-</p>
