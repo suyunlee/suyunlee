@@ -26,12 +26,26 @@
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS S3-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-59666C?style=flat&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat&logo=thymeleaf&logoColor=white"/>
+
+<!-- Infra -->
+<img src="https://img.shields.io/badge/AWS EC2-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+
+<!-- Etc -->
+<img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
 
 </div>
 
@@ -41,8 +55,8 @@
 
 | 프로젝트 | 설명 |
 |----------|------|
-| [🎬 CloneTube](https://github.com/suyunlee/CloneTube) | 유튜브 클론 사이트. JWT 로그인, 동영상 업로드(S3), 댓글 및 구독 기능 구현. Spring Boot 기반 백엔드 + Thymeleaf |
-| [🛒 Carrot Market Clone](https://github.com/suyunlee/carrotmarket_clone) | 당근마켓 클론 웹앱. 게시글 CRUD, 이미지 업로드, 동네 기반 UI 구성. MVC 아키텍처 + PostgreSQL 사용 |
+| [🎬 CloneTube](https://github.com/suyunlee/CloneTube) | 유튜브 클론. JWT 로그인, 동영상 업로드(S3), 댓글, 구독 기능. Spring Boot + PostgreSQL + S3 |
+| [🛒 Carrot Market Clone](https://github.com/suyunlee/carrotmarket_clone) | 당근마켓 클론. 게시글 CRUD, 이미지 업로드, 지역 기반 UI 구성. Spring Boot + Thymeleaf + Docker 배포 |
 
 ---
 
@@ -52,4 +66,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=suyunlee&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyunlee&layout=compact&theme=tokyonight" height="150"/>
 </div>
-    
