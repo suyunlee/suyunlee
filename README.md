@@ -1,4 +1,3 @@
-<h1 align="center">Hi there 👋 I'm Suyun Lee!</h1>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffdbdb,100:ffa8a8&height=180&text=Hi%20there%20👋%20I'm%20Suyun%20Lee!&animation=fadeIn&fontColor=383838&fontSize=40" />
 </div>
 <div align= "center"> 
