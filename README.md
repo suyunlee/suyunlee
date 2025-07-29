@@ -1,4 +1,11 @@
 <h1 align="center">Hi there 👋 I'm Suyun Lee!</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffdbdb,100:ffa8a8&height=180&text=Hi%20there%20👋%20I'm%20Suyun%20Lee!&animation=fadeIn&fontColor=383838&fontSize=40" />
+</div>
+<div align= "center"> 
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+<div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;">  </div> 
+</div>
+
 
 <p align="center">
   💻 Passionate Web Developer | 🛠️ Java & Spring Boot Enthusiast <br/>
@@ -46,4 +53,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=suyunlee&show_icons=true&theme=tokyonight&hide_title=true" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyunlee&layout=compact&theme=tokyonight" height="150"/>
 </div>
-
+    
